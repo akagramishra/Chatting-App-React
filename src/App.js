@@ -11,7 +11,7 @@ import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
   apiKey: "AIzaSyC6GwZgS_zUIm97cbvzUS2Bsp5JjPn3-jk",
-  authDomain: "chatapp-reactjavas.firebaseapp.com",
+  authDomain: "chatting-react-app.netlify.app",
   projectId: "chatapp-reactjavas",
   storageBucket: "chatapp-reactjavas.appspot.com",
   messagingSenderId: "217694136647",
